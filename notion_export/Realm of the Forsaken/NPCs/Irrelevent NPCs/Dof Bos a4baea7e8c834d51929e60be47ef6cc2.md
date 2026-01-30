@@ -1,0 +1,12 @@
+# Dof Bos
+
+Years Active: 316 - 353 4E
+Affiliation: Red Chaos (../../Organizations/Red%20Chaos%202e14eab8dd3d4da8861f34d20ee05e75.md)
+Age: 37
+Gender: Male
+Species: Human
+Current Location: Kaloyte (../../Lands/The%20Fallen%20Land%20of%20Elderen/Kingdom%20of%20Kalnaer/Kaloyte%203046fe40c7bb450b887fcf6044aec950.md)
+Status: Deceased
+Tags: NPC
+
+- Bartender at The Modest Drow, Member of the Red Chaos

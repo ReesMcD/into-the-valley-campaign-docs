@@ -1,0 +1,3 @@
+# Suspicious Tankard
+
+Tags: Item
