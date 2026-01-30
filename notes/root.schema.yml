@@ -1,0 +1,13 @@
+version: 1
+imports: []
+schemas:
+  - id: root
+    title: root
+    parent: root
+    children:
+      - realm-of-the-forsaken
+      - template
+      - migration
+      - daily
+      - scratch
+      - task

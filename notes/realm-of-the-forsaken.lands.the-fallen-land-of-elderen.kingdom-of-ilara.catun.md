@@ -1,0 +1,81 @@
+---
+id: realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-ilara.catun
+title: "Catun"
+desc: ''
+updated: 1769785947130
+created: 1769785947130
+notionId: "0d6bf6c338324203817f98176f103cdd"
+tags:
+  - "Capital"
+  - "Town"
+kingdom: "realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-ilara"
+capitalof: "realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-ilara"
+locations: "realm-of-the-forsaken.organizations.the-citadel"
+currentresidents: "Gladis Saword (../../../NPCs/Irrelevent%20NPCs/Gladis%20Saword%20c88126bc8d54406e9174bdc3cf204622.md), Bravis Nimbleweed (../../../NPCs/Irrelevent%20NPCs/Bravis%20Nimbleweed%208c37cf63a2c34591b9580d5ab0b48bda.md)"
+---
+
+- Key Plot Points
+    - Council of Ilara - 6 year terms, new Councillor voted in each year
+        
+        Catun, the resplendent capital of Ilara and the largest city in Elderan, stands as a beacon of culture, commerce, and diversity within the Nine Kingdoms. Known for its vibrant arts scene, political importance, and bustling trade, Catun draws visitors and residents from all corners of the realm.
+        
+        - Councillor Elandra Velorin
+        - Councillor Marlic Adalor
+        - Canidante Avelin Merrow
+        - Councillor Ilyria Starweaver
+        - Councillor Orien Vale
+
+# Overview
+
+## Key Features
+
+- **Capital Status:** Catun serves as the capital of the Kingdom of Ilara, housing the seat of government and royal residences.
+- **Cultural Hub:** Often considered the cultural center of the Nine Kingdoms, with numerous theaters, galleries, and performance spaces.
+- **Political Importance:** Home to the Ilarian parliament, a council of notable politicians and business leaders that convenes in the Grand Assembly
+- 
+
+## Arts and Entertainment
+
+Catun's streets come alive with the spirit of creativity and performance:
+
+- **Whispering Square:** A central plaza known for its excellent acoustics, hosting daily street performances and impromptu concerts.
+- **The Grand Theater:** An opulent venue on High Street, showcasing world-class productions and seating over 2,000 spectators.
+- **Palette Alley:** A winding street in the Artisan's Quarter, lined with colorful art galleries and studios.
+- **Festival Grounds:** A large open area near the river, home to annual events like the Midsummer Magic Fair and the Harvest Moon Carnival.
+
+## Commerce and Trade
+
+The city's economic landscape is as diverse as its population:
+
+- **Artificer's Alley:** A street in the Craft District, famous for its boutique magic shops and skilled artisans.
+- **Grand Bazaar:** A sprawling covered market in the heart of the city, offering goods from all corners of Elderan.
+- **Guildhall Row:** A stretch of impressive buildings housing various craft guilds and trade associations.
+- **Dockside Market:** A bustling area near the harbor where fresh goods and exotic imports are traded daily.
+
+## Diversity and Accommodation
+
+Catun prides itself on being the most diverse city in Elderan:
+
+- **The Crossroads:** A central district where cultures blend, featuring cuisine and customs from across the Nine Kingdoms.
+- **Traveler's Rest:** An area near the city gates with a wide range of inns and taverns for all types of visitors.
+- **Embassy Row:** A street lined with diplomatic residences and offices representing various kingdoms and factions.
+
+## Notable Locations
+
+- **The Ilarian Parliament:** A grand building with intricate architecture, located in the Government District.
+- **Bard College:** A sprawling campus in the Harmonic Quarter, featuring both modern and ancient buildings.
+- **North Ridge Trading Company Headquarters:** A imposing structure in the Financial District, symbolizing Catun's commercial might.
+- **The Whispering Square:** A central plaza surrounded by cafes and small shops, always buzzing with activity.
+- **The Artificer's Alley:** A narrow, winding street in the Craft District, filled with the sounds and smells of creation.
+- **Starlight Bridge:** An iconic bridge spanning the River Ila, known for its enchanted lights that mirror the night sky.
+
+## Taverns and Inns
+
+- **The Gilded Goblet:** An upscale tavern in the Noble Quarter, known for its extensive wine collection and gourmet meals.
+- **The Wanderer's Rest:** A cozy inn near the city gates, popular among travelers for its comfortable beds and hearty breakfasts.
+- **The Laughing Bard:** A lively tavern in the Harmonic Quarter, featuring nightly performances by students and faculty from the Bard College.
+- **The Whispering Willow Inn:** A serene establishment near the city's central park, known for its peaceful atmosphere and garden views.
+- **The Dockside Dive:** A rough-and-tumble tavern in the harbor district, frequented by sailors and dock workers.
+- **The Enchanted Chalice:** A magical-themed inn in the Craft District, where each room is decorated to represent a different school of magic.
+
+Catun's unique blend of politics, arts, commerce, and diversity makes it a city like no other in Elderan. From the grand halls of the Ilarian Parliament to the mysterious corners of the Midnight Market, every street and building tells a story of a city constantly evolving yet deeply rooted in its rich history and traditions.

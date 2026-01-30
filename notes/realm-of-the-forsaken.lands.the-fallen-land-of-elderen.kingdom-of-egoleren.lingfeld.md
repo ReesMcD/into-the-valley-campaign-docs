@@ -1,0 +1,50 @@
+---
+id: realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-egoleren.lingfeld
+title: "Lingfeld"
+desc: ''
+updated: 1769785947126
+created: 1769785947126
+notionId: "20d421bc14774885ae502111c58b9192"
+tags:
+  - "Town"
+kingdom: "realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-egoleren"
+currentresidents: "Daylen Peckish (../../../NPCs/Relevant%20NPCs/Daylen%20Peckish%203b1c91453948471fbb3ba8d309c9b37f.md), Tilly Nettle (../../../NPCs/Irrelevent%20NPCs/Tilly%20Nettle%209f5480e1626e4ffc9e0b70ae5405deea.md)"
+---
+
+- Key Information
+    - [plot point]
+
+# Description
+
+Lingfeld is a small, weathered town near the border of Egoleren and Kalnaer. Once a thriving agricultural community, years of war have left the surrounding farmlands barren and scarred. The town now stands as a somber reminder of the toll conflict has taken on the region.
+
+# History
+
+Founded in the early days of Egoleren's expansion, Lingfeld was originally established as an agricultural settlement, known for its bountiful wheat fields and orchards. For generations, it supplied much of the surrounding region with grain and fruit.
+
+However, the War of Forn Valley and subsequent conflicts ravaged the countryside. Armies marched through Lingfeld's fields, using scorched earth tactics that left the once-fertile soil poisoned and unproductive. The town's population dwindled as many farmers were forced to abandon their lands.
+
+# Locations in Lingfeld
+
+## Bullywug's Bed
+
+A small tavern and inn run by a halfling man named Fenton Hopfoot. The establishment got its peculiar name from an incident where a group of bullywugs, displaced by the war, sought refuge in the inn's cellar.
+
+## Nettle's Newt
+
+An apothecary run by Tilly Nettle, an old halfling woman known for her unconventional remedies. She specializes in treatments for ailments caused by the tainted farmlands.
+
+## Peckish Funeral Home
+
+A somber establishment run by Daylen Peckish, who serves as both undertaker and the town's unofficial historian. The funeral home has unfortunately seen brisk business in recent years.
+
+## The Lingering Granary
+
+Once the town's primary grain storage, this large building now stands mostly empty. It serves as a community gathering place and occasional shelter for refugees passing through.
+
+# Quirks and Features
+
+- Despite the hardships, Lingfeld hosts an annual "Renewal Festival," where residents plant seeds in a small, carefully tended community garden, symbolizing hope for the future.
+- The town has developed a unique form of art using scorched wood from the ruined farmlands, creating hauntingly beautiful sculptures and crafts.
+- A local delicacy called "War Bread" has emerged, made from a mix of unconventional ingredients foraged from the altered landscape.
+- Lingfeld has become known as a haven for war veterans and displaced farmers, fostering a tight-knit community bound by shared hardship.

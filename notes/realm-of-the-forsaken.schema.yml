@@ -1,0 +1,109 @@
+version: 1
+imports: []
+schemas:
+  - id: realm-of-the-forsaken
+    title: Realm of the Forsaken
+    parent: root
+    children:
+      - campaigns
+      - dm-tools
+      - lands
+      - npcs
+      - organizations
+      - the-realm
+
+  - id: campaigns
+    title: Campaigns
+    parent: realm-of-the-forsaken
+    children: []
+
+  - id: dm-tools
+    title: DM Tools
+    parent: realm-of-the-forsaken
+    children: []
+
+  - id: lands
+    title: Lands
+    parent: realm-of-the-forsaken
+    children:
+      - the-fallen-land-of-elderen
+      - the-free-cities-and-states-of-dandillo
+
+  - id: the-fallen-land-of-elderen
+    title: The Fallen Land of Elderen
+    parent: realm-of-the-forsaken.lands
+    children: []
+
+  - id: the-free-cities-and-states-of-dandillo
+    title: The Free Cities and States of Dandillo
+    parent: realm-of-the-forsaken.lands
+    children: []
+
+  - id: npcs
+    title: NPCs
+    parent: realm-of-the-forsaken
+    children:
+      - dead-npcs
+      - irrelevent-npcs
+      - key-npcs
+      - legendary-npcs
+      - relevant-npcs
+
+  - id: dead-npcs
+    title: Dead NPCs
+    parent: realm-of-the-forsaken.npcs
+    children: []
+
+  - id: irrelevent-npcs
+    title: Irrelevent NPCs
+    parent: realm-of-the-forsaken.npcs
+    children: []
+
+  - id: key-npcs
+    title: Key NPCs
+    parent: realm-of-the-forsaken.npcs
+    children: []
+
+  - id: legendary-npcs
+    title: Legendary NPCs
+    parent: realm-of-the-forsaken.npcs
+    children: []
+
+  - id: relevant-npcs
+    title: Relevant NPCs
+    parent: realm-of-the-forsaken.npcs
+    children: []
+
+  - id: organizations
+    title: Organizations
+    parent: realm-of-the-forsaken
+    children: []
+
+  - id: the-realm
+    title: The Realm
+    parent: realm-of-the-forsaken
+    children:
+      - books
+      - gods
+      - items
+      - timeline
+
+  - id: books
+    title: Books
+    parent: realm-of-the-forsaken.the-realm
+    children: []
+
+  - id: gods
+    title: Gods
+    parent: realm-of-the-forsaken.the-realm
+    children: []
+
+  - id: items
+    title: Items
+    parent: realm-of-the-forsaken.the-realm
+    children: []
+
+  - id: timeline
+    title: Timeline
+    parent: realm-of-the-forsaken.the-realm
+    children: []

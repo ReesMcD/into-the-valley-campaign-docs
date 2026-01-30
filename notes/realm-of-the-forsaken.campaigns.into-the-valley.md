@@ -1,0 +1,324 @@
+---
+id: realm-of-the-forsaken.campaigns.into-the-valley
+title: "Into the Valley"
+desc: ''
+updated: 1769785947034
+created: 1769785947034
+notionId: "93f8057cd3aa46a0a0691421947e66d6"
+tags:
+  - "Campaign"
+---
+
+# Summary
+
+The party is tasked with stealing a "key" and spellcraft gems from the King of Kalnaer by the Red Chaos. They successfully infiltrate Rocborne Deep and plan their heist of the castle, obtaining a map of the castle's depths and a contact within the castle. The party then successfully steals weapons from Fort Brackhill and delivers them to the Red Chaos to resolve their debt. They later encounter Cale Brey, a wanted man who joins them on their journey and helps them fight off bounty hunters and undead. The party learns of the Obyrith Order's attack on Stonepost and decides to aid the Cleric of Pelor in defending Duargate.
+
+# Characters
+
+[[realm-of-the-forsaken.campaigns.into-the-valley.hamqueef|Hamqueef]]
+
+[[realm-of-the-forsaken.campaigns.into-the-valley.rikoris-ellamir|Rikoris Ellamir]]
+
+[[realm-of-the-forsaken.campaigns.into-the-valley.olympia|Olympia]]
+
+[[realm-of-the-forsaken.campaigns.into-the-valley.yarmin-goodbarrel|Yarmin Goodbarrel]]
+
+# Quest Log
+
+## Festival of Light Arc
+
+## Chapter 1:
+
+This story begins in 353 4E in the humble town of [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.pinebach|Pinebach]], located in the [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer|Kingdom of Kalnaer]], where the Festival of Light is taking place. The festival is held every 10 years to celebrate light, life, and peace, and is one of the most sacred and historic traditions in Kalnaer.
+
+During the festival, an assault destroyed the town of Pinebach, and an unlikely group of adventurers assembled to fend off the undead summoned by the cloaked figure and his followers.
+
+After defeating the undead, [[realm-of-the-forsaken.campaigns.into-the-valley.olympia|Olympia]], [[realm-of-the-forsaken.campaigns.into-the-valley.hamqueef|Hamqueef]], [[realm-of-the-forsaken.campaigns.into-the-valley.rikoris-ellamir|Rikoris]], and [[realm-of-the-forsaken.campaigns.into-the-valley.yarmin-goodbarrel|Yarmin]] regrouped at a nearby tavern and decided to investigate further. They eventually discovered a small path into the forest with small footprints leading in and out. The tavern owner offered them a job, requesting that they transport goods to the kingdom's capital, [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.kaloyte|Kaloyte]]. However, the group planned to continue investigating before taking on this new task.
+
+## Chapter 2:
+
+Our heroes began following tracks leading out of Pinebach into the wilderness. Along the way, they gained help from the surrounding nature but also came upon a destroyed farm, which may have been burned down by those they were following. They buried the dead and continued on their way, still uncertain if those they were following were responsible for the attack at the festival.
+
+As they journeyed, a trap sprung, and a couple of wolves attacked. Surviving this deadly encounter, the party rested, knowing more danger lay ahead. Eventually, they found a clearing where they discovered that some goblins were the cause of much of the chaos. The party hatched a plan, and Yarmin disguised himself as a goblin and approached the goblins guarding their cave entrance. However, the plan went awry, and a fight broke out. Despite the difficulty, our party emerged victorious, defeating the small tribe of goblins. They found some loot and learned that the goblins had taken a prisoner named Anders Shortwit, who was studying the goblins. Anders seemed to have escaped his imprisonment but left his notes and journal behind.
+
+## Chapter 3:
+
+The party returned to Pinebach, where they rested and drank. They took [[realm-of-the-forsaken.npcs.irrelevent-npcs.mudmear-shadowbrow|Mudmear Shadowbrow]], the owner of the Bronze Boar, up on his offer to deliver goods to Kaloyte. They slept for the night, shopped a bit, and started their new quest.
+
+Journeying from Pinebach to Kaloyte, the party passed many travelers, including a half-orc merchant who was carrying all of his goods. When they were not too far from the capital, the party approached a broken-down wagon to offer support. To their surprise, the wagon was a highwayman trap, and they were attacked. The party survived the encounter and moved towards Kaloyte.
+
+## Chapter 4:
+
+Upon arriving in Kaloyte, the party tried to swindle their way into the city, but to no avail, as Olympia was seen charming a guard. After regrouping, disguising themselves, and getting into the city, the party headed to the Barter and Bee Hive to deliver the goods, minus a few items. The shopkeeper, [[realm-of-the-forsaken.npcs.irrelevent-npcs.mirabel-ronwarst|Mirabel]], seemed suspicious but took the goods. Olympia, as a spider, spied on Mirabel while the rest of the party went to the Modest Drow, a nearby bar. Olympia eventually joined, while Hamqueef left early to find the church. Olympia was then confronted by thugs at the bar, along with Mirabel, about their intentions and some other questions about their past. She offered them to stay in the tavern, but the party was unsettled and made their way to the [[realm-of-the-forsaken.organizations.church-of-pelor|Church of Pelor]] to stash the gems they stole. The party returned to the tavern to spend the night, but as the night passed, they heard someone trying to enter their room.
+
+## Red Chaos Arc
+
+## Chapter 5:
+
+Thugs from the [[realm-of-the-forsaken.organizations.red-chaos|Red Chaos]], a crime organization the party seem to offend, entered the party's room and attacked them. The party took them down, only to encounter more thugs in the tavern. After defeating them all, except for one that escaped, the party fled to the Church of Pelor to plan. In the morning, they went shopping and searched for more information. While talking to some guards at the Twin Princess, a tavern in the main square, they learned that the Red Chaos were not to be trifled with. After leaving the bar, they were confronted by a courier with a message.
+
+## Chapter 6:
+
+After receiving a message from the Red Chaos, the party learns that they are being held to some sort of debt. They flee Kalyote and head for [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.stonepost|Stonepost]]. Along the way, they notice they may be being followed. The party also learned that the issue with goblins may be not just be contained to Pinebach but the whole kingdom.  
+
+After arriving at Stonepost, they begin inquiring about a nearby castle, [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.castles-and-forts.dorgaete-castle|Dorgaete Castle]]. While the party hears that some mysterious activity related to the Pinebach attack may be happening there, many of the townsfolk know nothing of the sort and are generally unaware of the castle. After turning in for the night, Hamqueef is confronted by some shady men who turn out to be Red Chaos assassins. The party and these men begin to fight outside the tavern where they are staying. While the party fights hard, they are overwhelmed by the assassins and are taken.
+
+## Chapter 7:
+
+After being drugged and subdued for an unknown amount of time, the party is transported back to Kaloyte by the Red Chaos. A man named [[realm-of-the-forsaken.npcs.relevant-npcs.olin-lowmourn|Olin]] confronts the party in the basement of the Modest Drow, backed by Mirabel and the assassin. He tells the party they have unrightfully stolen from the Red Chaos and killed their men. He gives them the task of stealing a "key" from the King of Kalnaer, [[realm-of-the-forsaken.npcs.relevant-npcs.king-tordun-kal|Tordun Kal]], as well as spellcraft gems in his possession.
+
+After being freed, the party begins to devise a plan. They infiltrate Rocborne Deep and speak to the son of the king about local quests while Olympia searches the castle via the sewer system. The party strikes a deal to recover an owlbear pelt for the king's son. Olympia learns that there may be some caverns under the castle. After reconvening, the party sets out to find an owlbear, which they eventually defeat and skin.
+
+## Chapter 8:
+
+With an owlbear pelt in hand, the party begins planning their next moves. With a reason to get back into Rocborne Deep, they want to get better bearings and information for their heist. While planning, they hear screams from what sounded to be a child. The party rushes over to find some men trying to kill a goblin child. After failing to persuade the men to leave the goblin alone, the party subdues them. The goblin child flees. After finishing off the men, the party tracks the goblin child. They follow him back to a small cave where they find his parents. After arguing with the goblins for a bit, the party realizes the goblin conflict might be more complex than they originally thought. After choosing to let the goblins be, the party heads back to Kaloyte.
+
+The party heads straight to the castle to return the owlbear pelt to the prince. Olympia sneaks back into the sewers to find a cavern underneath the castle and a path leading into the depths of the castle but is blocked by a locked door. The party reconvenes at the Golden Goose where they chat with Red Chaos leader Olin. He informs them that the steward to the prince is his inside man and he will be able to give them information. Rikoris meets with the steward, [[realm-of-the-forsaken.npcs.irrelevent-npcs.van-elderwood|Van]], later that night. He learns the castle was built upon an old Elven castle and the depths of it still remain untouched. Van lets the party know that he can open the door that Olympia found to get them into the castle. After their meeting with Van, the party regroups and rests for the night, ready for their upcoming heist.
+
+## Chapter 9:
+
+With a day to kill before their planned heist, the party tries to tighten up their plan. Olympia sneaks back into the castle to get a full layout of the place. After formulating a plan with this new information, the party lets Van know they are ready to start the heist.
+
+## Chapter 10:
+
+The party waited patiently until nightfall to begin their heist. They had planned to enter the castle through the catacomb tunnels, which they knew could be accessed as Van had left the door open for them.
+
+As they made their way through the catacombs, something strange happened to Rikoris. He was lured into the depths of the crypt by an unknown magic and the rest of the party had no choice but to push forward with the plan without him.
+
+Yarmin stood guard outside the castle, while Olympia and Hamqueef sneaked into the King's room. Olympia transformed into a spider to sneak in, while Hamqueef climbed up the balcony. Once they were inside, they searched frantically for anything that could be the key to the armory vault, taking the King's rings, necklace, and cane.
+
+Meanwhile, Rikoris found an ancient Elven tomb that his likeness was able to unlock. This area seemed untouched for generations. An elven spirit visited Rikoris and gave him a trial. The two battled fiercely, but Rikoris could not overcome the spirit. To his surprise, Rikoris passed his trial and moved forward into the tomb. There, he found the skeletal remains of a dragon and an elven warrior. On the fallen Elf was [[realm-of-the-forsaken.the-realm.items.elven-artifacts.hand-of-zokenth|an ancient gauntlet that resembled a dragon]], which Rikoris took. Along with these, he found what seemed to be a stone gate built into the tomb wall.
+
+Around this time, Rikoris snapped out of his dazed charm and remembered why he was here. He went to find the party, only to discover that they were attempting to flee. The party had succeeded in their goal, but Hamqueef was spotted climbing down the King's balcony.
+
+The ragtag group escaped through the same tunnel they had entered, but they were being chased by guards. They finally reached the safety of the forest.
+
+## Chapter 11:
+
+The party had set up camp in the woods, quite some distance away from the city. Rikoris, Yarmin, and Olympia decided to venture into the city to hand over the procured items to Olin. However, Hamqueef was hesitant and chose to stay back, fearing that his presence could attract the attention of the guards.
+
+Upon handing over the necklace key to Olin, the party was reminded that they were still partially in debt to the Red Chaos because they were unable to retrieve the spellcraft gems. Olin then proposed a new plan to reconcile the debt: They would use the key they had procured to rob the Kal's prestigious armory, which was located within the [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.castles-and-forts.fort-brackhill|Fort Brackhill]]. The armory contained many fine weapons that belonged to the Kal's, and the party was tasked with stealing them and delivering them to a buyer in [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.conrisgar|Conrisgar]].
+
+As the party traveled through the city, they realized that the city guard was searching for a "Furred Beast" and his traveling party. They also discovered that Stonepost, the place they had previously been investigating, was under attack.
+
+Meanwhile, while the rest of the party was away, Hamqueef went fishing and caught a massive fish that could feed the whole party for days. He also spotted some poachers who were hunting an elusive and rare Unicorn. Hamqueef bravely intervened and managed to stop the poachers, receiving a blessing from the unicorn in return.
+
+Once the party had reconvened, they began to plan their next heist, taking into consideration the new information they had gathered about the situation in Stonepost and the search for the "Furred Beast" and his party.
+
+## Chapter 12:
+
+Not liking their new task the party wanted to see if they could recover the spellcraft gems from the castle. However, their first attempt to infiltrate the castle failed when Hamqueef was spotted by a patrolling guard. After a successful retreat to their camp, the party was able to defeat the guards and regroup.
+
+Despite their victory, the party knew that their criminal presence was too high and that they needed to make a swift exit from Kalyote. They decided to head towards [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.beckhowe|Beckhowe]], a small town near the armory. The journey was uneventful, which was a welcome change for the party.
+
+Upon arriving at Beckhowe, the party discovered a broken-down wagon under a bridge. They investigated and found two scrolls and some coin. However, their excitement was short-lived when they opened one of the scrolls and triggered a massive fireball. After surviving the trap, the party cautiously opened the second scroll. To their surprise, it contained a map of Kalnaer, which could prove to be extremely useful in their current and future quests. 
+
+## Chapter 13:
+
+The party arrived at Beckhowe, a seemingly abandoned town, and discovered that Fort Brackhill was located a short distance to the north. However, they were taken aback by the large presence of the Kal’s military in the town. Curious as to what the military was up to, the party decided to visit the local tavern. While there, they overheard whispers about the military excavating something, but they were unable to glean much information as the soldiers seemed to be keeping things under wraps.
+
+Undeterred, the party set out to Fort Brackhill , where Olympia surveyed the small fort and identified the location of the vault room. As they made their way back to town, they encountered a nervous and frantic man in the common room of their inn. Although he seemed to be an academic, he was evasive and untruthful when questioned by Olympia and Rikoris. Before they could learn anything more, the man fled.
+
+The next day, the party returned to Fort Brackhill with the intention of infiltrating the vault. Hamqueef devised a plan where Yarmin and Rikoris would disguise themselves as members of the Kal city guard, with Olympia posing as their horse. The two were to convince the commander of the fort that they needed weapons to aid in the conflict at Stonepost. This plan worked although the commander was initially suspicious, he eventually allowed Yarmin and Rikoris to enter the vault, which he claimed was rarely accessed, only by the King and some subjects.
+
+Once inside the vault, Yarmin and Rikoris were perplexed to find that it was not an armory or store room, but rather an ancient tomb for elves. Although much of the tomb had been cleared out, the party was able to locate some weapons that they hoped would suffice for their task. Satisfied with their haul, they left the castle via carriage and headed towards Conrisgar.
+
+## Chapter 14:
+
+After successfully infiltrating the vault and stealing weapons from Fort Brackhill, the party had to flee from the city. They decided to head towards Conrisgar, avoiding Kalyote. Once in Conrisgar, they went to relax in a nearby tavern, where they were approached by a cloaked figure named Traros, a member of the Red Chaos. Traros was to bring the party to the buyer of the stolen weapons.
+
+The party agreed to follow Traros, and they all traveled north to [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.castles-and-forts.higshom-castle|Higshom Castle]]. As they stopped to rest, Traros snuck away to continue moving forward. Soon after, the party was ambushed by bandits sent by the [[realm-of-the-forsaken.organizations.the-north-ridge-trading-company|North Ridge Trading Company]], who aimed to stop their shipment of weapons. Despite the ambush, the party managed to defeat the bandits and finish their rest before pushing to find Traros and Higshom Castle.
+
+Upon arriving at the castle, the party noticed Traros on the castle walls, who gestured them in. After entering the walls of Higshom Castle, the party realized their buyer was an army of goblins. However, after completing the transaction, the party's debt was resolved to the Red Chaos.
+
+A hobgoblin leader paid Traros and who then left. The hobgoblin then offered the party an invitation for dinner, which was accepted by the party.
+
+## Cale Brey Arc
+
+## Chapter 15:
+
+The party was cordially invited into the Higshom Castle, where they were given the privilege to explore the goblin fortress. While there, they had the good fortune of meeting [[realm-of-the-forsaken.npcs.relevant-npcs.anders-shortwit|Anders Shortwit]], a renowned professor from the [[realm-of-the-forsaken.organizations.the-citadel|Citadel]] who was studying the behaviors of goblins. During dinner, [[realm-of-the-forsaken.npcs.relevant-npcs.orac|Orac]], the Hobgoblin leader, revealed to the party that they were planning a revolution to overthrow the Kal Royal Family due to their unfair treatment of goblins. Orac explained that he believed members of the party would sympathize with their cause, as the ancestors of the current rulers had once pushed the Elves out of the land.
+
+After listening to Orac's offer, the party expressed their desire to take some time to think it over. In the meantime, they took advantage of the opportunity to learn more about the goblins' plans and standings from Anders. He also gave them some valuable contacts at the Citadel.
+
+During their exploration, the party stumbled upon an interesting discovery: Higshom seemed to be built on another Elven tomb or vault. 
+
+The next morning, the party respectfully declined Orac's offer. They explained that they did not want to harm any innocent people, either directly or indirectly. Orac understood their position but made it clear that they could not be allies if they did not support the cause. Despite this, the party left with valuable knowledge, new contacts, and a deeper understanding of the goblin's plight.
+
+## Chapter 16:
+
+The party gathered their belongings and left Higshom Castle, setting off towards the town of Conrisgar. As they traveled, they noticed a cloaked man who seemed to be watching them. Intrigued, the party decided to investigate further and stopped at an inn for the night. While they rested, they asked the bartender about any available bounties. Unfortunately, they were informed that all the bounties had been taken earlier that day by a group of men.
+
+In the morning, the party made their way to the Conrisgar farmers market, where they spent some time browsing the many handcrafted goods and unique foods. It was during this time that the cloaked man revealed himself to be [[realm-of-the-forsaken.npcs.dead-npcs.cale-brey|Cale Brey]], someone whom the party knew was also wanted by the Kals. He warned them that bounty hunters were on their tail and urged them to follow him.
+
+The party, curious and somewhat frightened, followed Cale out of the market and into the surrounding countryside. They dodged the bounty hunters and managed to escape Conrisgar, eventually they arrived at a forest near Helna Castle.
+
+It was here that Cale revealed more information about the North Ridge Trading Company, explaining that they controlled the Kals and that he was wanted for exposing this fact and starting an uprising against the Kals. He went on to say that the NRTC was after all of the elven artifacts in Kalnaer and that they were using the Kals to do so, without any regard for the kingdom or its people.
+
+After taking some much-needed downtime, the party relaxed by a pond and enjoyed the peaceful surroundings. It was during this time that Olympia, one of the party members, was awoken by a strange fog that had settled over the pond. She felt compelled to investigate and found herself walking across the water towards a shadowy figure in the distance. As she approached, however, she realized that it was just a [[realm-of-the-forsaken.the-realm.items.elven-artifacts.nimues-waterskin|water skin floating on the surface of the pond.]]
+
+## Chapter 17:
+
+The party had a productive morning and decided to head to Stonepost to complete their business. They managed to persuade Cale to join them on their journey. As they approached the town, they were greeted with a gruesome sight. The road was littered with broken-down and looted carriages and carts. Furthermore, there were a significant number of corpses on the road, many of whom appeared to have taken their own lives. Upon closer inspection, it was discovered that all the bodies had bite marks on them.
+
+While investigating the bodies, Hamqueef suddenly became agitated and began questioning Cale's lack of progress in his efforts, accusing him of being pretentious. Cale, feeling that his honor had been challenged, declared that he had saved the party and if they were ungrateful, he had no need for them and would continue on his own. Rikoris and Olympia were confused by Hamqueef's sudden outburst.
+
+The party arrived in Stonepost on foot, sneaking in to avoid being detected. It soon became apparent that zombies had taken over the town, and the party suspected that it may have had something to do with the kidnapping of the Chosen Child.
+
+As the party continued their investigation, they were confronted by bounty hunters who were searching for them. The zombies, however, deterred the bounty hunters from attacking.
+
+The party witnessed two cloaked men walking through the town with zombies and decided to confront them. Unfortunately, the party was attacked by bounty hunters while trying to flee to safety. Yarmin, Rikoris, and Hamqueef fell to the bounty hunters' attacks, and when Olympia returned from checking on Cale, she found no one in sight.
+
+## Chapter 18:
+
+After realizing the party was in danger, Olympia noticed wagon tracks in the area. She decided to follow them, hoping that they would lead her to something interesting. After journeying through the forest and sneaking around wandering undead, she finally found the wagon. However, instead of being bandits or bounty hunters, the wagon belonged to Cale Brey.
+
+To Olympia's surprise, Cale was severely injured from a battle with the zombies and cultists he had encountered. Being a kind-hearted person, Olympia immediately offered to heal Cale. As she worked on his wounds, they talked about their situations and discovered that they had a lot in common. Cale offered to help Olympia and her friends in return for saving his life, and the two hatched a plan.
+
+With the aid of Olympia's druidic powers, they tracked the bounty hunters to a nearby hill that overlooked Dorgaete Castle. The plan was for Cale to act as a distraction while Olympia healed and freed her friends. Cale swiftly handled the injured bounty hunters, with quick help from a restored Yarmin. Olympia finished healing the party, then went to help Cale.
+
+As they were finishing off the bounty hunters, the undead arrived. A cultist, a few zombies, and a massive undead ogre invaded the bounty hunter camp. Hamqueef quickly jumped into one of the bounty hunters' wagons, but Rikoris was knocked down by an undead. Yarmin ran back to pull Rikoris into the cart, and they waited for Olympia.
+
+Cale held off the ogre so Olympia could flee, fearing that the cultist and ogre would once again follow him. Olympia made her way to the wagon when Cale was struck down by the undead.
+
+As the party was about to flee, a Cleric of Pelor burst onto the scene, slaying a few undead and confronting the cultist. He told the party to flee, not knowing who they were. The party fled from the battle so they could rest for the night. They collected some loot from the bandits and rested for the night.
+
+In the morning, Yarmin was investigating a magical mug they found but got frustrated and gave it to Hamqueef. Meanwhile, Rikoris and Olympia crafted a message to send (via an animal) to the cleric that helped them. They sent a plan to meet them between Stonepost and Conrisgar.
+
+The party decided to return to the battlefield to see if anything was left there. They found an empty battlefield, seeing the fallen bounty hunters, undead, and one Cale Brey. However, there was no cleric, cultist, or ogre in sight. The party built a funeral pyre and gave Cale a proper send-off, then headed away from Stonepost to meet with the cleric.
+
+## Chapter 19:
+
+The party had to make a quick escape from Stonepost after paying their respects to the deceased Cale. As they headed north, they encountered a Karl military battalion who were marching towards Stonepost, determined to take back the town from the grips of the undead.
+
+Finally, the party reached their destination, a junction that connected the roads to Conrisgar, Stonepost, and Kalyote. They decided to take a moment to relax and wait for the cleric they had sent a message to.
+
+While on watch at night, Yarmin was strangely lured into the dark by some sort of visions or illusions. Though he came back hours later dazed, he was unharmed.
+
+The following day, the cleric, Hergud Pebblesword, arrived. Though the party was surprised, they were grateful to have him join them. Hergud introduced himself as a Cleric of Pelor and informed the party that The Obyrith Order was responsible for the attack on Stonepost and the Festival of Light. He also revealed that the order was marching north with a horde of undead, in search of a buried relic.
+
+With a newfound sense of purpose, the party was determined to aid Hergud in defending his home and kingdom. They decided to call themselves The Nights of Kale, in honor of their fallen friend, Cale Brey.
+
+After discussing their plan of action with Hergud, he left for Kalyote, hoping to meet up with the party in Duargate in a week's time.
+
+## The Duargate Arc
+
+## Chapter 20:
+
+The newly rebranded Nights of Kale embarked on their epic journey towards the northern city of Duargate, determined to put an end to the menacing horde of undead that was relentlessly marching towards its walls.
+
+As the brave party made their way through treacherous paths and winding roads, they couldn't help but notice the lifeless bodies of goblins strewn along the way. These fallen creatures of the night led them to a modest farmhouse, a place that would soon become the setting for a fateful encounter.
+
+Within the humble abode, the party found themselves face to face with a fearsome Barghest, a demonic creature notorious for its insatiable thirst for goblin blood. After an arduous battle, the valiant Nights emerged victorious, but their triumph was bittersweet as they discovered a lone survivor amidst the carnage. The survivor turned out to be a young goblin boy named Ramblegast, his innocent eyes filled with terror and sorrow after witnessing the merciless slaughter of his own kin at the hands of the fiend.
+
+The party pressed on towards their destination, Duargate, but stopped near Beckhowe, where they planned to raise the alarm and rally the city's defenses against the impending undead onslaught. Rikoris and Yarmin took it upon themselves to seek out a military battalion, urgently conveying the imminent danger and urging them to join forces in the upcoming battle.
+
+Meanwhile, the rest of the party grappled with the presence of Ramblegast, affectionately known as Ramy, within their ranks. While some members welcomed him warmly, others harbored reservations, hesitant to fully trust a goblin, a creature often associated with treachery and deceit. Nevertheless, Ramy's innocence and the tragedy he had endured compelled them to provide him with temporary sanctuary and companionship.
+
+Days turned into nights as the resilient Nights of Kale ventured ever closer to Duargate, their hearts heavy with the weight of their mission. Finally, they arrived at the impressive city, nestled within the confines of a magnificent quarry. Eager to deliver their urgent warning, they approached the city gate and sought an audience with the guard, hoping to find an ally in their fight against the encroaching darkness.
+
+However, their plea for assistance was met with skepticism and indifference from the gatekeeper, who dismissed their concerns and underestimated the potential threat. Undeterred, the determined party pressed on, seeking refuge and respite at the Church of Pelor, a sanctuary of light amidst the encroaching shadows.
+
+To their astonishment, the priest of the church happened to be none other than the grandfather of their dear friend Hergud, adding a bittersweet twist to their already intricate journey. As they settled in for the night, the Nights of Kale couldn't help but feel a glimmer of hope amidst the challenges that lay ahead.
+
+## Chapter 21:
+
+The Nights of Kale decided to explore the city of Duargate, traveling down the the quarry city hoping to find information about the buried elven tomb. 
+
+Along their way Yarmin and Rikoris disguised themselves as dwarves and stopped at The Forge, a local tavern. Their they met two dwarves by the names of Godfrey and Todd, where they shared a couple of drinks and tried to learn some information.
+
+After tying one off, the party journeyed deeper into the city and found a odd magic shop by the name of Mithral Methodologies. While the party didn't purchase anything, Ramy, their goblin friend did steal a dagger. When he showed the party they confiscated it from him and returned it to the shop keeper, who was honestly impressed. 
+
+As they journeyed deeper they reached the Foundry, a metal refinery located at the bottom of the city. Olympia transformed herself into a rat and tried to sneak in, while the party headed back to the Church of Pelor to meet with Hergud. 
+
+Unfortunately, one of the guards noticed the rat and kicked it, popping Olympia out of her transformation, caught by the guards. 
+
+## Chapter 22:
+
+- Olympia fled the dwarves and hergud pebble sword soon arrived.
+- The party debated how to get in the foundry, but Pebblesword confidently led the charge and just asked his way through, with help from Godfrey.
+- The party was able to get into the Foundry to an an old mine shaft that was condemed.
+- They all journeyed down a steep cart track hurting themselves on the way.
+- They were soon met with rat with exposed brains. The rates could telepathically speak to them.
+- The journeyed through the cavernous mine shaft to find a stone elven door
+- When touched a umber hulk emerged from the ground and attacked the party
+- The slayed the Umber Hulk and the elven door opened.
+
+## Chapter 23:
+
+- In the dungeons of duargate the party came upon a Duergar city in a deep caverern of the under dark.
+- The snuck through the city and found the dueragar had imprisoned hundreds of young dwarven men.
+- The Dueragar would take men into a decending pool into a cave disappear.
+- The party investigated the area and figured they had to get into the pool where the dwarf disappeared.
+- Olypmia notably transformed into an octopus and jumped in the water to find a tunnel that led to an elven tomb.
+- In planning the party destroyed Ramy’s bag of holding.
+
+## Chapter 24:
+
+- The party caused a distraction and all made a mad dash to get in the pool, they were going to be pulled by Olympia as a shark and held their breath.
+- They made it alive to the tomb but when entering they realized it was filled with traps and trials.
+- Gravity shock room
+- Duragar statue fight
+- nightmare pool riddle and door riddle
+- elven spirt and door to mind flayer opens
+
+## Chapter 25:
+
+- Mind flayer fight
+- Yarmin is killed in the battle but Hergud give his light of pelor and his life. Reviving Yarmin.
+- Ramy got a cloak from the mind flayer
+- While investigating they find an elven coffin on the alter. Inside a weird artifact egg, that Rikoris deemed a fake, and a rose. Both being held by an elven corpse.
+- They are now concerned that they cant use it to bargain the zombie horde away.
+
+## Chapter 26:
+
+- The nights of kale are trying to get out of the dungeon.
+- The party also found a stream that lead out the back of alter which they jumped in and followed the current out.
+- With some weird magic at play the stream led them to a geyser that gushed them to the pond and well outside of the foundry
+- The party quickly met with many people within Duargate to warn of the incoming zombies.
+- First was Lord Hector Ironslad, the owner of the foundry and the cities de facto “leader.” He promised the guard to aid the efforts after the Nights of Kale convinced him of the impending danger.
+- Next Ralum Wyrm of Mithral Methidologies, where they learned a little bit of info on the egg, being called the key to the abyss, in exchange for the mind flayer head. And ramy got a knife.
+- Finally they met Reverend Kol Stonehammer, the head preist at the Church of Moridin, on recommendation from Reverend Pebblesword.
+- The party convinced the Reverend to use his sermon as platform to warn the people of Duargate.
+
+## Chapter 27:
+
+- The nights of kale used the time they had, one more day, to plan and organize.
+- Olympia sent a raven, who she promised food, to get an estimate number and time for the zombie horde
+- She also with help of hamqueef organized guards to aid in the battle.
+- Reverand Stone Hammer gave his sermon, a brilliant speech, and convinced the city of Duargate to hide in the mineshafts so that the Nights of Kale would protect them.
+- Some citizens volunteered to help, notably Godrey, Todd. and a dwarven women named Erga.
+- Lord Ironslad said the he would volunteer himself to protect and hid the valuables of the city so the zomies wouldnt steal them.
+- After the townspeople went to hid, the nights of kal begun final preparations as they learned the zombies would arrive at midnight.
+- Yarmin went to the gates to keep watch, Erga fashioned a pully system that would allow him to drop down to the bottom of Duargate fast.
+- Rikoris and Hamqueef (sleeping) worked with the dwaves to fashion a system that would allow them to seal the vault with molten metal and trap the zombies beneath the city.
+- Ramy was in charge of the guards.
+- As midnight approached Yarmin saw the hoard of a few hundred zombies. He signaled to the town and dropped down.
+
+## Chapter 28:
+
+- The Nights of Kale and the dwarves hid in the foundry.
+- Hundreds of zombies marched into the underdark not noticing the party. The cultist leading the hoard also entering the underdark none the wiser.
+- A few dozen zombies lingered along with the Zombie Hulks they couldnt fit.
+- The party sprung to action when the zombies were deep into the cavern. Attacking the zombies in an attempt to close the vault door, so the dwarves could begin the sealing process.
+- The Night of Kale battles the zombies first in the foundry then out to the city defating all of the zombies and sealing the vault in a well won fight.
+
+## Chapter 29:
+
+- In the morning the party  met gathered with the townsfolk and they were celebrated for saving the city, earning the titles saviors of Duargate and Hero’s of the High Moon.
+- They were given a reward by the towns people.
+- Ralum Wyrm revealed himself to be a member of the red chaos and offered information to the party. But he could only do so if one of them joined. Rikoris decided to join learning the Red Chaos and the partys goals somewhat aligned.
+- Rikoris learned he decends from dragon riders.
+- Olympia learned theres a wood elf in Egoleren
+- Hamqueef learned theres a bounty out for a similar looking tabaxi named Sol (25,000 gold)
+- The party after being thanked by so many to finish one last task, feed the bird that helped them.
+
+## Unnamed Arc
+
+## Chapter 30:
+
+## Chapter 32:
+
+## Chapter 32:
+
+## Chapter 33:

@@ -1,0 +1,24 @@
+---
+id: realm-of-the-forsaken.the-realm.items.other-magic-items.thorn
+title: "Thorn"
+desc: ''
+updated: 1769785947406
+created: 1769785947406
+notionId: "1b44a20ace094e24a4ccb82310338397"
+tags:
+  - "Item"
+---
+
+# Thorn
+
+*Weapon (rapier), rare (requires attunement)*
+
+This elegant rapier has a hilt crafted to resemble a thorny rose stem, with a deep crimson blade that shimmers like a petal in the moonlight. The crossguard is fashioned into delicate rose leaves, giving the weapon a deceptively beautiful appearance.
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+The blade is coated with a magical poison. When you hit a creature with an attack using this weapon, you can use your bonus action to force the target to make a DC 14 Constitution saving throw. On a failed save, the target takes an additional 2d6 poison damage and is poisoned until the end of your next turn. This feature can be used three times per day, regaining all expended uses at dawn.
+
+As a bonus action, you can cause the blade to emit a faint, sweet scent. Any creature within 5 feet of you must succeed on a DC 14 Wisdom saving throw or be charmed by you until the end of your next turn. This feature can be used once per short or long rest.
+
+*Thorn is a deadly weapon that combines elegance with lethality, perfect for an assassin who appreciates both style and efficiency.*

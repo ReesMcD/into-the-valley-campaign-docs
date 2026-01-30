@@ -1,0 +1,89 @@
+---
+id: realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer.kaloyte
+title: "Kaloyte"
+desc: ''
+updated: 1769785947166
+created: 1769785947166
+notionId: "3046fe40c7bb450b887fcf6044aec950"
+tags:
+  - "Capital"
+  - "Town"
+kingdom: "realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer"
+capitalof: "realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer"
+currentresidents: "King Tordun Kal (../../../NPCs/Relevant%20NPCs/King%20Tordun%20Kal%209c3cf20bb0e54dac9cbfab9da87a700b.md), Prince Erag Kal (../../../NPCs/Irrelevent%20NPCs/Prince%20Erag%20Kal%20ebdcac4d77614fb6a0e0499349bdf21b.md), Van Elderwood (../../../NPCs/Irrelevent%20NPCs/Van%20Elderwood%20fe60c61c172e4e94800f5b556c5b728a.md), Olin Lowmourn (../../../NPCs/Relevant%20NPCs/Olin%20Lowmourn%202c3cdf8d18d24d41935c2adc66ed9a53.md), Mirabel Ronwarst (../../../NPCs/Irrelevent%20NPCs/Mirabel%20Ronwarst%2081672aa81738408d97c758c7c8955fb5.md), Dof Bos (../../../NPCs/Irrelevent%20NPCs/Dof%20Bos%20a4baea7e8c834d51929e60be47ef6cc2.md), Sebastian Harold (../../../NPCs/Irrelevent%20NPCs/Sebastian%20Harold%2079e55650ad924cdd90bf544c8ef0b629.md), Sir Harold Hardbash (../../../NPCs/Irrelevent%20NPCs/Sir%20Harold%20Hardbash%20d70c47fac2164075b6939012cf3565b6.md)"
+---
+
+- Key Information
+    - A bounty for Hamqueef has been issued.
+    - Kal Royal Family is under guard after recent events. The city is under lock down.
+
+# Description
+
+Kaloyte is the capital of the [[realm-of-the-forsaken.lands.the-fallen-land-of-elderen.kingdom-of-kalnaer|Kingdom of Kalnaer]], ruled by the [[realm-of-the-forsaken.organizations.the-kal-royal-family|Kals]], a long line of dwarves who have governed the land for generations. The city is surrounded by stone walls and features a large grey stone castle called Rocborne Deep. The Upper District consists of stone buildings that surround the castle, while the majority of the city is made up of stacked wooden shops and homes, creating many market squares.
+
+While some areas of Kaloyte are abandoned or run-down, small caravans, stands, and farmers can be found throughout and around the city. Despite its modest appearance, Kaloyte is a significant city in the Kingdom of Kalnaer. 
+
+Overall, Kaloyte may appear dull and unremarkable, but its history and significance to the Kingdom of Kalnaer make it a noteworthy location for those who appreciate the nuances of history and architecture.
+
+# History
+
+- Built in the 1st Era by ancient elves
+
+# Locations in Kaloyte
+
+## Rocborne Deep
+
+Rocborne Deep is not just any ordinary castle - it is the castle of the Kal Royal Family. Built upon the remains of an old elven castle, the castle gets its name and various statues of Rocs from the previous structure. The castle is surrounded by walls that serve not only as protection, but also house stables, training areas, store rooms, and guard barracks within its courtyard, making it a self-sustaining fortress.
+
+The castle is centered around the great mead hall, which is where the King and his family hold their grand feasts. Each of the wings and towers of the castle is dedicated to other members of the Kal Royal family, with each wing and tower representing a different branch of the family. For instance, the East Wing is dedicated to the Prince and his royal court, while the West Wing is reserved for the King's trusted advisors.
+
+The King's Room is located atop the center tower and is a sight to behold. It contains a personal armory where the King's finest weapons are kept, a library filled with ancient tomes and scrolls, and a balcony that provides an unparalleled view of the surrounding lands.
+
+Below the castle are catacombs that date back generations, providing a glimpse into the history of the Kal Royal Family. But deeper within the catacombs lies an ancient elven crypt that has remained untouched for generations, shrouded in mystery and legend. The tomb contains a Elven Gate that leads to the plane of Mount Celestia, as well as the skeleton of a dragon and elf. A secret entrance into the castle is located a few miles away from the city that leads to the catacombs, adding to the castle's intrigue and mystique.
+
+## The Modest Drow
+
+The tavern and inn, a popular hangout spot for members of the notorious [[realm-of-the-forsaken.organizations.red-chaos|Red Chaos]], was a rundown and dingy establishment that had seen better days. Although it appeared to be just like any other dive bar, with its sticky floors and dim lighting, the Red Chaos had taken over the cellar and were using it for their illicit operations. This included everything from storing illegal weapons to conducting secret meetings and transactions with their criminal associates. Despite the best efforts of the local authorities to shut down the Red Chaos and their illegal activities, the tavern continued to be a hub of criminal activity and a source of fear for the surrounding community.
+
+## The Twin Princess
+
+Located in the main square of the city, the Twin Princess is a popular hangout spot for many city guards who come here to relax and unwind after a long day of work. The tavern itself is a small and modest wooden building, but it has a cozy and welcoming atmosphere that draws people in. Despite its unassuming appearance, the tavern is known for its delicious food and drinks, and many locals and tourists alike come here to enjoy a good meal and socialize with friends.
+
+## The Golden Goose
+
+Situated in the upper district of Kaloyte, the Golden Goose is a fine and well-kept establishment catering to the well-to-do and elites of the city. The patrons who frequent this tavern are often seen enjoying the exquisite food and drink offerings while engaging in lively conversation with other guests. However, despite not being directly affiliated with the infamous Red Chaos, it is worth noting that the owner of this establishment, [[realm-of-the-forsaken.npcs.relevant-npcs.olin-lowmourn|Olin Lowmourn]], is known to have ties to the criminal underworld. Nonetheless, this does not deter the distinguished clientele who continue to frequent the establishment, drawn by the high-quality service and luxurious amenities that are offered.
+
+## Val’s General Store
+
+Val's is a store located in the main square of Kaloyte that offers a variety of goods, ranging from basic necessities to specialty items. As customers browse through the aisles, they can find everything they need for daily life, including food, clothing, and household items. The store is always well-stocked and offers reasonable prices, making it an ideal shopping destination for both locals and tourists.
+
+## Kalnaer General
+
+Kalnaer General, located in the upper district, is a bespoke store that caters to the needs of the upper class. The store offers a wide range of high-quality products and services that are designed to meet the needs and preferences of its discerning clientele. The store's interior is elegantly decorated, with a warm and inviting atmosphere that makes customers feel right at home. The store's knowledgeable staff are always on hand to provide expert advice and assistance, ensuring that every customer is able to find exactly what they are looking for.
+
+## Barter and Bee Hives
+
+Barter and Bee Hives may appear dingy on the outside, but it is actually a front for the notorious organization Red Chaos, which operates in the area. This means that the store is not just a place to buy unique goods, but it is also a hub for backdoor dealings that take place in secret. The store is run by [[realm-of-the-forsaken.npcs.irrelevent-npcs.mirabel-ronwarst|Mirabel Ronwarst]], who is known for her shrewd business practices and ability to get her hands on hard-to-find items. Despite the shady reputation of the store, many people are still drawn to it for the rare and one-of-a-kind items that can be found there. From antique weapons to exotic spices, Barter and Bee Hives is a treasure trove of unique goods that cannot be found anywhere else.
+
+## Arcane Infinity
+
+Arcane Infinity is an enchanting arcane shop located in the upper district of Kalyote that caters to adventurers and the elite of the city. It offers a wide range of magical items and weapons, as well as other services of an arcane nature. Travelers and adventurers alike can find everything they need to make their next journey a success, from powerful wands to potions that can grant the gift of flight.
+
+The Red Chaos is a major supplier and customer of Arcane Infinity, providing spellcraft gems for production. Despite operating off-the-books, The Red Chaos has gained a reputation for being one of the most reliable sources of spellcraft gems in Kalnaer as well as other kingdoms.
+
+## The Silver Forge
+
+The Silver Forge, a renowned blacksmith and armory, is located at the heart of the bustling main square of Kalnaer. It has been in operation for over three generations, serving the people of the town and its neighboring areas with the highest quality swords, shields, armor, and other metalwork. The owners of the Silver Forge take great pride in their craft, with each piece being carefully crafted and inspected to ensure that it meets their high standards. They are also known to take special orders and will work with customers to create customized pieces that are tailored to their individual needs. The Silver Forge is not just a store, it is a landmark of Kalnaer and a testament to the town's history and tradition of fine craftsmanship.
+
+## Church of Pelor
+
+The [[realm-of-the-forsaken.organizations.church-of-pelor|Church of Pelor]] is the most popular temple for humans in Kalyote, renowned for its grandeur and spiritual significance. Located in the upper district of Kalyote, the Church of Pelor is a massive and impressive cathedral with intricate details and beautiful architecture. The temple is known for its stained glass windows, which depict scenes from Pelor's life and are a sight to behold. Tourists and visitors often marvel at the temple's beauty and spiritual grandeur.
+
+The Church of Pelor is not only a place of worship but also a center of community and social gathering for the people of Kalyote. The head priest of the temple, [[realm-of-the-forsaken.npcs.irrelevent-npcs.sebastian-harold|Sebastian Harold]], is a respected figure in the religious community and is known for his sermons and teachings that inspire and uplift the people of Kalyote.
+
+The temple's significance is rooted in its history. The Chosen Child of Kalnaer, a child selected to embody the spirit and power of Pelor, traditionally calls this temple home. The Church of Pelor is not only a significant religious hub in the region but also a testament to the rich and diverse religious culture of Kalyote.
+
+## Other Locations
+
+- Church of Moridin
+- Church of Sehanine

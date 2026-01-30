@@ -1,0 +1,16 @@
+---
+id: realm-of-the-forsaken.the-realm.timeline.origins.the-dawn-war
+title: "The Dawn War"
+desc: ''
+updated: 1769785947410
+created: 1769785947410
+notionId: "2f3512cca00947ef8d2b8d875a62650c"
+tags:
+  - "Lore"
+---
+
+At the beginning of time, the Material Plane was in a state of chaos and danger, ruled by powerful entities known as Primordials. The Dawn War Deities, whom we now know as the Gods, saw this as an opportunity to bring order and stability to the world. They descended from the heavens and waged the Dawn War against the Primordials, a great and brutal conflict that shaped the oceans, mountains, and lands of the Material Plane.
+
+After a long and fierce battle, the Gods emerged victorious and banished the defeated Primordials to a dark plane where they will spend eternity. The Gods then divided the ruling territory among various planes but decided to make the Material Plane a common ground for their creations, with the understanding that they would limit their intervention.
+
+As the Dawn War subsided, conflicts between the gods rose once again. Notably, Tharizdun was imprisoned in the Abyss, a plane he himself invented. Tharizdun’s imprisonment spurred the creation (or at least alignment) of demons in the Abyss. Asmodeus, ruler of the Nine Hells, was tasked with guarding the Abyss, initiating the Blood War, a war between the demons of the Abyss and the devils of the Nine Hells.
