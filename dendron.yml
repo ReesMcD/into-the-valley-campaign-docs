@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: into_the_valley
+            name: into-the-valley-campaign-docs
     journal:
         dailyDomain: daily
         name: journal
